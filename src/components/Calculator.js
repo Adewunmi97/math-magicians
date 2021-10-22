@@ -1,3 +1,5 @@
+/* eslint-disable react/prefer-stateless-function */
+/* eslint-disable no-unused-vars */
 import React, { useState } from 'react';
 import View from './View';
 import UI from './UI';
