@@ -15,7 +15,7 @@
 
 ## Live Demo
 
-[Live Demo Link]()
+[Live Demo Link](https://adewunmi97.github.io/math-magicians/)
 
 ## Getting Started
 
