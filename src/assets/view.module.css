@@ -1,0 +1,10 @@
+.View {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding: 5px;
+  background: #858694;
+  height: 20%;
+  color: #fff;
+  font-size: 34px;
+}
