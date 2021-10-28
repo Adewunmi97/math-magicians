@@ -1,0 +1,60 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test Navbar functionality should have 4 links on page 1`] = `
+<div>
+  <div>
+    <nav
+      class="navbar"
+    >
+      <div
+        class="navbar-container"
+      >
+        <a
+          class="navbar-logo"
+          href="/"
+        >
+          Math magicians
+           
+          <i
+            class=" fab fa-typo3"
+          />
+        </a>
+        <ul
+          class="nav-menu"
+        >
+          <li
+            class="nav-item"
+          >
+            <a
+              class="nav-links"
+              href="/"
+            >
+              Home
+            </a>
+          </li>
+          <li
+            class="nav-item"
+          >
+            <a
+              class="nav-links"
+              href="/calc"
+            >
+              Calculator
+            </a>
+          </li>
+          <li
+            class="nav-item"
+          >
+            <a
+              class="nav-links"
+              href="/quote"
+            >
+              Quote
+            </a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+  </div>
+</div>
+`;

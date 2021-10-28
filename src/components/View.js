@@ -7,7 +7,7 @@ class View extends Component {
   render() {
     const { output, operation, next } = this.props;
     return (
-      <div className={`${styles.View}`}>
+      <div data-testid="screen" className={`${styles.View}`}>
         <p>{output || null}</p>
         <p>{operation || null}</p>
         <p>{output || operation || next ? next : '0'}</p>

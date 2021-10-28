@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test View functionality should render 6x2 correctly on the screen 1`] = `
+<div>
+  <div
+    class="View"
+    data-testid="screen"
+  >
+    <p>
+      6
+    </p>
+    <p>
+      x
+    </p>
+    <p>
+      2
+    </p>
+  </div>
+</div>
+`;
