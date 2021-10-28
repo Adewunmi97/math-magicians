@@ -1,0 +1,31 @@
+.Button {
+  width: 25%;
+  height: 100%;
+  font-size: 1.5rem;
+  font-family: inherit;
+  background: #e0e0e0;
+  border: 1px solid #858694;
+  box-sizing: border-box;
+  justify-content: center;
+  align-items: center;
+  transition: all 0.2s;
+  color: rgba(0, 0, 0, 0.5);
+  margin: 0;
+  min-width: 25%;
+}
+
+.ButtonSpan2 {
+  width: 50%;
+}
+
+.ButtonOrange {
+  background-color: #f5913e;
+}
+
+.Button[data-value="null"] {
+  pointer-events: none;
+}
+
+.Button:hover {
+  opacity: 0.8;
+}
