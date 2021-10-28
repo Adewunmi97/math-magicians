@@ -1,16 +1,5 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`test Button Functionality Button renders 1`] = `
-<div>
-  <button
-    class="Button ButtonSpan2"
-    type="button"
-  >
-    0
-  </button>
-</div>
-`;
-
 exports[`test Button Functionality should render Button correctly 1`] = `
 <div>
   <button
